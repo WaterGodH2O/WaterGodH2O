@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaterGodH2O
-- 👀 I’m interested in 摆烂
-- 🌱 I’m currently learning JVAV
-- 💞️ I’m looking to collaborate on die
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---

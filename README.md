@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @WaterGodH2O
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+不会真有人看我这种菜比的profile吧？
 
 <!---
 WaterGodH2O/WaterGodH2O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
